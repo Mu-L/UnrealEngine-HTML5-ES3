@@ -16,4 +16,6 @@ There are various issues/caveats to be aware of (some already existed, some are 
 
 For all features you may wish to use, a good rule of thumb is: anything that didn't work in Epic's last supported version of HTML5 packaging (4.23) or the community supported plugin (4.24) probably won't work in this fork. Anything that needs compute shaders won't work as that isn't supported in WebGL 1 or WebGL 2. See [this page](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/SupportedRenderingFeatures/) for an indication of what features may be supported (see the Android ES3.1 column which will be most useful indication as to what _may_ work in the ES3 branch of this fork).
 
+User @wadim-al also made a post of things which may be broken in this fork that is interesting: https://github.com/SpeculativeCoder/UnrealEngine/issues/183#issuecomment-3901614706 (NOTE: you need your GitHub linked to Epic account or you will see a 404 on this link).
+
 See [TROUBLESHOOTING](TROUBLESHOOTING.md) for more detail on typical issues / troubleshooting / workarounds.

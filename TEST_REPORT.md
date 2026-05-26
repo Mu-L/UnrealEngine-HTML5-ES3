@@ -2,18 +2,18 @@
 
 ## Test Report
 
-Most recent test run completed around **2026-03-17** for a release with emscripten **5.0.3**
+Most recent test run completed around **2026-05-24** for a release with emscripten **5.0.7**
 
-## Test ES3 branch (https://github.com/SpeculativeCoder/UnrealEngine/tree/4.27.2-html5-es3-5.0.3)
+## Test ES3 branch (https://github.com/SpeculativeCoder/UnrealEngine/tree/4.27.2-html5-es3-5.0.7)
 
 Versions:
 - Windows **11**
-- Git for Windows: **2.53.0**
-- CMake: **4.2.3**
-- Python: **3.14.3**
-- Visual Studio **2026**: **18.4.0**
-- Visual Studio toolchain: **14.50.35726**
-- Windows SDK: **10.0.26100**
+- Git for Windows: **2.54.0**
+- CMake: **4.3.2**
+- Python: **3.14.5**
+- Visual Studio **2026**: **18.6.1**
+- Visual Studio toolchain: **14.51.36244**
+- Windows SDK: **10.0.28000**
 
 Steps:
 - Built AdhocCombat (personal project) C++ project Development regularly and tested locally in Chromium.
@@ -24,16 +24,16 @@ Steps:
 - Built FirstPerson Blueprint project in Development multithreaded and ran in Chromium.
 - Tested multiplayer using enabled websocket plugin with at least one of the above.
 
-## Test ES2 branch (https://github.com/SpeculativeCoder/UnrealEngine/tree/4.24.3-html5-es2-5.0.3)
+## Test ES2 branch (https://github.com/SpeculativeCoder/UnrealEngine/tree/4.24.3-html5-es2-5.0.7)
 
 Versions:
 - Windows **11**
-- Git for Windows: **2.53.0**
-- CMake: **4.2.3**
-- Python: **3.14.3**
-- Visual Studio **2026**: **18.4.0**
-- Visual Studio toolchain: **14.50.35726**
-- Windows SDK: **10.0.26100**
+- Git for Windows: **2.54.0**
+- CMake: **4.3.2**
+- Python: **3.14.5**
+- Visual Studio **2026**: **18.6.1**
+- Visual Studio toolchain: **14.51.36244**
+- Windows SDK: **10.0.28000**
 
 Steps:
 - Built FirstPerson Blueprint project in Development and ran in Chromium.
